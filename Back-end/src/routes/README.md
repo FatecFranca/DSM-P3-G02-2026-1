@@ -1,0 +1,1 @@
+Rotas para serem utilizadas pelos controllers
