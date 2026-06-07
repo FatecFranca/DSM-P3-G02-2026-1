@@ -1,0 +1,3 @@
+Parte feita por: Yasmin Gabriely
+
+Os arquivos de cadastro, movimentacoes e relatorios são voltados para as principais páginas do nosso projeto, o cadastro de medicamentos, a página de movimentacoes onde podemos ter uma visão completa de todos os medicamentos cadastrados, com nome, quantidade e tipo, entrada ou saída, nessa página podemos dar entrada e saída dos medicamentos. A página de relatórios é onde podemos ter uma visão geral do sistema voltado para os medicamentos, entradas e saídas, quantidade e validade e etc, onde é possível imprimir e exportar o relatório para controle de medicamentos.
