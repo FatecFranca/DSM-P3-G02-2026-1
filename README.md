@@ -1,2 +1,4 @@
 # DSM-P3-G02-2026-1
 Repositório do GRUPO 02 do Projeto Interdisciplinar do 3º semestre DSM 2026/1. Alunos: Artur Alves Simões, Pyetro Andrade Morgan, Samir Facirolli da Silva, Yasmin Gabriely de Deus Silva.
+
+Link para teste: https://stalwart-vacherin-b0fa7f.netlify.app/login
